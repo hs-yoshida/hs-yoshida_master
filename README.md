@@ -6,4 +6,6 @@ hogehoge
 
 hogehogehoge
 
-fugafugafuga
+hogehoge
+
+foobaa
